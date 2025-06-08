@@ -1,6 +1,7 @@
 # 🙋‍♂️ Introducing myself
 
 **🌟 Data Analyst | Data Scientist | BI Professional**
+
 Hi, Welcome to my portfolio where I showcase my projects, achievements, and passion for data science! 😊
 
 
@@ -10,7 +11,7 @@ I specialize in analyzing large datasets, building interactive dashboards, and s
 
 I’ve worked with tools like Excel, SQL, Power BI, Tableau, and Python to clean data, design visual reports, and support forecasting. I also have a growing interest in AI-powered automation and conversational tools.
 
-I’m detail-oriented, analytical, and collaborative—always focused on turning raw data into clear stories and real impact.
+I’m detail-oriented, analytical, and collaborative always focused on turning raw data into clear stories and real impact.
 
 ---
 ## ⚡Core Competencies
