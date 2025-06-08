@@ -1,6 +1,6 @@
 # 🙋‍♂️ Introducing myself
 
-## 🌟 Data Analyst | Data Scientist | BI Professional
+**🌟 Data Analyst | Data Scientist | BI Professional**
 Hi, Welcome to my portfolio where I showcase my projects, achievements, and passion for data science! 😊
 
 
